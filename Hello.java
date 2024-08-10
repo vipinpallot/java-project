@@ -2,6 +2,6 @@
 //
 class Hello {
   public static void main(String[] args) {
-    System.out.println("Welcome to DevOps Certification Training from Edureka!");
+    System.out.println("Welcome to DevOps Certification Training Jenkins online training!");
   }
 }
